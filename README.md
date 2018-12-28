@@ -1,1 +1,6 @@
-# username-hunter
+# username-hunter 
+
+## run 
+-----------------
+python checker.py
+-----------------
